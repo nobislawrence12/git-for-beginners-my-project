@@ -1,4 +1,4 @@
 Welcome to myproject!
 
-Author: Lawrence Ndu
+Author: Lawrence Chi Ndu
 Branch:@Unionbank
